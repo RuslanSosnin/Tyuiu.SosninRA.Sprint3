@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SosninRA.Sprint3.Task
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SosninRA.Sprint3.Task0.V3.Test", "Tyuiu.SosninRA.Sprint3.Task0.V3.Test\Tyuiu.SosninRA.Sprint3.Task0.V3.Test.csproj", "{D6CB385E-36AE-41A4-83DD-1964DF3DA641}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{EEAD2235-2C5C-4D36-B0F4-459055DB350A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,10 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E9C1BB82-5428-44A4-B444-AEB43AF27AFB} = {EEAD2235-2C5C-4D36-B0F4-459055DB350A}
+		{274D433C-560B-4F8C-BAFF-A5DEA0FBBD0D} = {EEAD2235-2C5C-4D36-B0F4-459055DB350A}
+		{D6CB385E-36AE-41A4-83DD-1964DF3DA641} = {EEAD2235-2C5C-4D36-B0F4-459055DB350A}
 	EndGlobalSection
 EndGlobal
