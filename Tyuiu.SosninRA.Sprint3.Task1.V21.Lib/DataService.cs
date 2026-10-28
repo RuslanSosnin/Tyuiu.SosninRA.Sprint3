@@ -16,7 +16,7 @@ namespace Tyuiu.SosninRA.Sprint3.Task1.V21.Lib
                 k++;
             }
 
-            return Math.Round(multSeries, 3);
+            return Math.Round(multSeries, 2);
         }
     }
 }
