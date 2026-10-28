@@ -20,4 +20,5 @@ namespace Tyuiu.SosninRA.Sprint3.Task0.V3.Test
             Assert.AreEqual(wait, res);
         }
     }
+
 }

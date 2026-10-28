@@ -15,4 +15,5 @@ namespace Tyuiu.SosninRA.Sprint3.Task0.V3.Lib
             return Math.Round(sumSeries, 3);
         }
     }
+
 }
